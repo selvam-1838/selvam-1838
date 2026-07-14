@@ -1,16 +1,20 @@
-## Hi there 👋
+class Selvaganapathi:
+    def __init__(self):
+        self.name              = "Selvaganapathi S"
+        self.location           = "Chennai, Tamil Nadu, India"
+        self.degree             = "B.E. Computer Science and Engineering"
+        self.college             = "Chennai Institute of Technology (2024–28)"
+        self.cgpa               = 7.6
+        self.stack              = ["Python", "Java", "OpenCV", "YOLOv8", "AWS", "MongoDB"]
+        self.currently_learning = ["Advanced Computer Vision", "Full-Stack Development"]
+        self.fun_fact           = "Solved 500+ problems on LeetCode"
+        self.hackathons         = ["Top 5 — Astrava Hackathon (AIT)"]
 
-<!--
-**selvam-1838/selvam-1838** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    def motto(self):
+        return "Learn. Build. Ship. Repeat."
 
-Here are some ideas to get you started:
+    def say_hi(self):
+        print(f"Hey, I'm {self.name} — {self.motto()}")
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+me = Selvaganapathi()
+me.say_hi()
