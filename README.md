@@ -1,178 +1,170 @@
-[README (1).md](https://github.com/user-attachments/files/30007621/README.1.md)
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Selvaganapathi%20S&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Engineer%20in%20Training%20%7C%20Computer%20Vision%20%7C%20B.E.%20CSE&descAlignY=55&descSize=16" width="100%" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:06B6D4&height=220&section=header&text=Selvaganapathi%20S&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20%7C%20Computer%20Vision%20%7C%20Full%20Stack&descAlignY=58&descSize=18" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=1200&color=70A5FD&center=true&vCenter=true&width=750&lines=Computer+Vision+%26+Applied+Machine+Learning;500%2B+LeetCode+Problems+Solved;Top+5+%40+Astrava+Hackathon+(AIT);Open+to+Internships+%26+Collaboration" alt="Typing SVG" />
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=B.E+CSE+Student+%40+Chennai+Institute+of+Technology;AI+%2F+ML+%26+Computer+Vision+Enthusiast;500%2B+LeetCode+Problems+Solved;Top+5th+%40+ASTRAVA+Hackathon" alt="Typing SVG" />
+</a>
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-SLUG" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:selvaganapathis.cse2024@citchennai.net"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/selvam-1838" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=selvam-1838&label=Profile%20Views&color=353a47&style=flat-square" />
-</p>
+<a href="https://www.linkedin.com/in/selvaganapathi-s-cse-dpt" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Selvam-1838" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:selvaganapathis.cse2024@citchennai.net"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="tel:9003541838"><img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
-<br>
+</div>
 
-## About Me
+<br/>
 
-I'm a Computer Science undergraduate at Chennai Institute of Technology, focused on **computer vision and applied machine learning**. I build end-to-end CV systems — from object detection to real-world monitoring applications — and I'm currently expanding into full-stack development to ship complete products, not just models.
+## 🧭 About Me
 
-- 🎓 B.E. Computer Science and Engineering, Chennai Institute of Technology (2024–2028) — CGPA 7.6
-- 🔭 Building projects in Computer Vision and Applied Machine Learning
-- 🌱 Currently developing skills in Advanced Computer Vision and Full-Stack Development
-- 🧩 500+ problems solved on LeetCode
-- 🏆 Top 5 finish, Astrava Hackathon (AIT)
-- 📫 selvaganapathis.cse2024@citchennai.net
+```yaml
+name: Selvaganapathi S
+role: CSE Undergraduate (2024 – 2028)
+college: Chennai Institute of Technology, Chennai, Tamil Nadu
+cgpa: 7.6
+focus: [AI/ML, Computer Vision, Full Stack Development, Cloud, IoT]
+currently_exploring: "Deep Learning & Real-time Vision Systems"
+fun_fact: "500+ problems solved on LeetCode 🧩"
+```
 
-<br>
+<br/>
 
-## Tech Stack
+## ⚡ Internship Journey
+
+<div align="center">
+
+| 🏢 Organization | 🎯 Role |
+|:--|:--|
+| **Google** | AI-ML Virtual Internship |
+| **AWS** | IoT Cloud Engineer Virtual Internship |
+| **MS Retech Solutions Pvt Ltd** | Artificial Intelligence Intern |
+| **NSIC – Govt. Technical Service Centre** | Computer Vision Techniques Intern |
+
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
-<td valign="top" width="20%"><b>Languages</b></td>
-<td>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
+<td width="50%">
+
+### 🚦 Traffic Management using CV
+Real-time traffic monitoring &amp; flow optimization using computer vision techniques.
+`Python` `OpenCV` `Computer Vision`
+
+</td>
+<td width="50%">
+
+### 👤 Face Detector — YOLOv8
+High-speed, high-accuracy face detection built on the YOLOv8 architecture.
+`YOLOv8` `Deep Learning` `Python`
+
 </td>
 </tr>
 <tr>
-<td valign="top"><b>AI / ML / CV</b></td>
-<td>
-  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/-YOLOv8-111F68?style=flat-square" />
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<td width="50%">
+
+### 🏬 Retail Vision: Smart Stock Surveillance
+Computer vision system for automated retail stock monitoring.
+`Computer Vision` `Python`
+
+</td>
+<td width="50%">
+
+### 💰 Gold Rate Prediction
+Decision-support ML model forecasting gold price trends.
+`Machine Learning` `Python`
+
 </td>
 </tr>
 <tr>
-<td valign="top"><b>Cloud & Networking</b></td>
-<td>
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AWS%20IoT-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Cisco%20Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+<td width="50%">
+
+### 💬 Chat Website for Communication
+Real-time web-based communication platform.
+`Full Stack` `Web Dev`
+
 </td>
-</tr>
-<tr>
-<td valign="top"><b>Databases</b></td>
-<td>
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td valign="top"><b>Tools</b></td>
-<td>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+<td width="50%">
+
+### 🧠 Perceptron — XOR Gate
+Perceptron algorithm implementation solving the classic XOR problem.
+`ML Fundamentals` `Python`
+
 </td>
 </tr>
 </table>
 
-<br>
-
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=selvam-1838&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvam-1838&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=selvam-1838&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=selvam-1838&theme=tokyo-night&hide_border=true" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=selvam-1838&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" />
-</p>
-
-<br>
-
-## Internship Experience
-
-<table>
-<tr><th align="left">Role</th><th align="left">Organization</th><th align="left">Focus</th></tr>
-<tr><td>AI-ML Virtual Internship</td><td>Google</td><td>Core AI/ML concepts and applied model building</td></tr>
-<tr><td>IoT Cloud Engineer Virtual Internship</td><td>AWS</td><td>Cloud-based IoT architecture and deployment</td></tr>
-<tr><td>Artificial Intelligence</td><td>MS Retech Solutions Pvt Ltd</td><td>Applied AI in a solutions environment</td></tr>
-<tr><td>Computer Vision Techniques</td><td>NSIC Govt. Technical Service Centre</td><td>Practical training in computer vision techniques</td></tr>
-</table>
-
-<br>
-
-## Featured Projects
-
 <div align="center">
 
-| Project | Stack | Description |
-|---|---|---|
-| Retail Vision: Smart Stock Surveillance | Python, OpenCV | Computer vision system for real-time retail stock monitoring |
-| Traffic Management using Computer Vision | Python, OpenCV | CV-based system for real-time traffic monitoring and control |
-| Face Detector — YOLOv8 | Python, YOLOv8 | Object detection pipeline for face detection |
-| Gold Rate Prediction | Python | ML-based decision-making model for price forecasting |
-| Resume Skill Extractor | Python | Extracts key skills and data from resumes |
-| Chat Website for Communication | Full-Stack | Real-time web-based chat application |
-| Perceptron Algorithm — XOR Gate | C | Neural network fundamentals via XOR gate implementation |
+### 📄 Skill Extractor — Resume
+An intelligent tool that extracts and structures key skills from resumes.
+`Python` `NLP`
 
 </div>
 
-<br>
+<br/>
 
-## Achievements & Certifications
+## 🛠️ Tech Stack
 
 <div align="center">
 
-| Category | Detail |
-|---|---|
-| Coding | 500+ problems solved on LeetCode |
-| Hackathon | Top 5, Astrava Hackathon (AIT) |
-| Cloud | AWS Cloud Practitioner Essentials |
-| Networking | CCNA: Introduction to Networks (Cisco) |
-| Artificial Intelligence | Introduction to Modern AI (Cisco) |
-| Python | PCAP: Programming Essentials in Python |
-| Data Analytics | Data Analytics with Python (NPTEL) |
-| IoT | Introduction to IoT — Elite (NPTEL) |
-| Database | MongoDB Basics for Students |
-| Python | Mastering Arrays: Python (DevTown) |
-| AI/ML | Internshala AIML Course |
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logo=internetcomputer&logoColor=white)
 
 </div>
 
-<br>
+<br/>
 
-## Education
+## 📊 GitHub Stats
 
-**B.E. Computer Science and Engineering**
-Chennai Institute of Technology, Chennai, Tamil Nadu
-CGPA: 7.6 · 2024–2028
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Selvam-1838&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Selvam-1838&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Selvam-1838&theme=tokyonight&hide_border=true" />
 
-## Currently Learning
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Selvam-1838&theme=tokyo-night&hide_border=true" width="98%"/>
+</div>
 
-`Advanced Computer Vision` &nbsp;·&nbsp; `Full-Stack Development`
+<br/>
 
-<br>
+## 🏆 Certifications
 
-## Connect With Me
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-SLUG" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:selvaganapathis.cse2024@citchennai.net"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+`Cisco – Intro to Modern AI` • `Internshala AIML` • `PCAP Python` • `AWS Cloud Practitioner` • `MongoDB Basics` • `CCNA Networks` • `DevTown Python Arrays` • `NPTEL IoT (Elite)` • `NPTEL Data Analytics`
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
-</p>
+</div>
+
+<br/>
+
+## 🥇 Achievements
+
+- 🧩 **500+ problems** solved on LeetCode
+- 🥈 **Top 5th place** — ASTRAVA Hackathon, AIT
+
+<br/>
+
+<div align="center">
+
+### 💭 Random Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<img src="https://komarev.com/ghpvc/?username=Selvam-1838&style=for-the-badge&color=6D28D9" alt="profile views"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6D28D9&height=120&section=footer"/>
+
+</div>
