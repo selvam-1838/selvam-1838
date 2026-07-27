@@ -12,12 +12,9 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" height="1"/>
+<br/>
 
-<table width="100%">
-<tr>
-<td width="60%" valign="middle">
-<h2>🧑‍💻 About Me</h2>
+## 🧑‍💻 About Me
 
 Computer Science undergraduate at Chennai Institute of Technology, Chennai *(2024–2028, CGPA 7.6)*, focused on **AI/ML and Computer Vision**.
 
@@ -27,14 +24,7 @@ I've turned theory into working systems — real-time traffic monitoring, YOLOv8
 🧩 **500+ LeetCode** problems solved
 🥈 **Top 5** — ASTRAVA Hackathon (AIT)
 
-</td>
-<td width="40%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="280"/>
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" height="1"/>
+<br/>
 
 ## ⚡ Internship Journey
 
@@ -45,7 +35,7 @@ I've turned theory into working systems — real-time traffic monitoring, YOLOv8
 | MS Retech Solutions Pvt Ltd | Artificial Intelligence Intern |
 | NSIC – Govt. Technical Service Centre | Computer Vision Techniques Intern |
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" height="1"/>
+<br/>
 
 ## 🚀 Projects
 
@@ -98,19 +88,36 @@ Perceptron implementation solving the XOR problem.
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+**📄 Skill Extractor — Resume**
+Extracts and structures key skills from resumes.
+`Python` `NLP`
+
+</td>
+<td width="50%"></td>
+</tr>
 </table>
 
-<div align="center"><b>📄 Skill Extractor — Resume</b> · Extracts and structures key skills from resumes · <code>Python</code> <code>NLP</code></div>
-
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" height="1"/>
+<br/>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,java,opencv,aws,mongodb,git,github,linux&theme=dark"/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" height="1"/>
+<br/>
 
 ## 📊 GitHub Stats
 
@@ -119,20 +126,30 @@ Perceptron implementation solving the XOR problem.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Selvam-1838&theme=radical&hide_border=true&background=0F0C29&ring=A78BFA&fire=A78BFA" height="160"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" height="1"/>
+<br/>
 
 ## 📜 Certifications
 
-<div align="center">
-<img src="https://img.shields.io/badge/Cisco-Intro%20to%20Modern%20AI-1BA0D7?style=flat-square"/>
-<img src="https://img.shields.io/badge/Internshala-AIML%20Course-FF6B00?style=flat-square"/>
-<img src="https://img.shields.io/badge/PCAP-Python%20Essentials-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-Basics-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/CCNA-Networks-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
-<img src="https://img.shields.io/badge/NPTEL-IoT%20(Elite)-24243E?style=flat-square"/>
-<img src="https://img.shields.io/badge/NPTEL-Data%20Analytics-24243E?style=flat-square"/>
-</div>
+| Certification | Issuer |
+|:--|:--|
+| 🤖 Introduction to Modern AI | Cisco |
+| 🧠 AIML Course | Internshala |
+| 🐍 PCAP: Programming Essentials in Python | Python Institute |
+| ☁️ AWS Cloud Practitioner Essentials | AWS |
+| 🍃 MongoDB Basics for Students | MongoDB |
+| 🌐 CCNA: Introduction to Networks | Cisco |
+| 🔢 Mastering Arrays: Python | DevTown |
+| 📡 Introduction to IoT (Elite) | NPTEL |
+| 📈 Data Analytics with Python | NPTEL |
+
+<br/>
+
+## 🏆 Achievements
+
+| | |
+|:--|:--|
+| 🧩 | **500+ problems solved** on LeetCode |
+| 🥈 | **Top 5th place** — ASTRAVA Hackathon, AIT |
 
 <br/>
 
