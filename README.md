@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=250&section=header&text=Selvaganapathi%20S&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20%7C%20Computer%20Vision%20%7C%20Full%20Stack&descAlignY=55&descSize=17&descColor=B8B5FF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:FFA36B,100:FFD56B&height=250&section=header&text=Selvaganapathi%20S&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20%7C%20Computer%20Vision%20%7C%20Full%20Stack&descAlignY=55&descSize=17&descColor=FFF3E0"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer+in+the+Making;Computer+Vision+%7C+Deep+Learning;500%2B+LeetCode+Problems+Solved;Building+%E2%80%A2+Learning+%E2%80%A2+Shipping"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=FF6B6B&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer+in+the+Making;Computer+Vision+%7C+Deep+Learning;500%2B+LeetCode+Problems+Solved;Building+%E2%80%A2+Learning+%E2%80%A2+Shipping"/>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/selvaganapathi-s-cse-dpt"><img src="https://img.shields.io/badge/-LinkedIn-A78BFA?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/Selvam-1838"><img src="https://img.shields.io/badge/-GitHub-24243E?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="mailto:selvaganapathis.cse2024@citchennai.net"><img src="https://img.shields.io/badge/-Email-A78BFA?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/selvaganapathi-s-cse-dpt"><img src="https://img.shields.io/badge/-LinkedIn-FF6B6B?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Selvam-1838"><img src="https://img.shields.io/badge/-GitHub-FFA36B?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:selvaganapathis.cse2024@citchennai.net"><img src="https://img.shields.io/badge/-Email-FFD56B?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
@@ -106,14 +106,14 @@ Extracts and structures key skills from resumes.
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FFA36B?style=for-the-badge&logo=openjdk&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-FFD56B?style=for-the-badge&logo=opencv&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-FF6B9D?style=for-the-badge&logo=amazonaws&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-6BFFB8?style=for-the-badge&logo=mongodb&logoColor=black)
+![Git](https://img.shields.io/badge/Git-FF6B6B?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-FFA36B?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FFD56B?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -122,8 +122,20 @@ Extracts and structures key skills from resumes.
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Selvam-1838&show_icons=true&theme=radical&hide_border=true&bg_color=0F0C29&title_color=A78BFA&icon_color=A78BFA" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Selvam-1838&theme=radical&hide_border=true&background=0F0C29&ring=A78BFA&fire=A78BFA" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Selvam-1838&show_icons=true&theme=synthwave&hide_border=true&title_color=FF6B6B&icon_color=FFA36B&text_color=ffffff&bg_color=1A1A2E" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Selvam-1838&theme=dark&hide_border=true&background=1A1A2E&ring=FF6B6B&fire=FFA36B&currStreakLabel=FFD56B" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Selvam-1838&bg_color=1A1A2E&color=FFD56B&line=FF6B6B&point=FFA36B&hide_border=true&area=true" width="97%"/>
+</div>
+
+<br/>
+
+## 🏅 Trophy Case
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Selvam-1838&theme=gitdimmed&no-frame=true&row=1&column=7&margin-w=8"/>
 </div>
 
 <br/>
@@ -155,8 +167,17 @@ Extracts and structures key skills from resumes.
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Selvam-1838&style=flat-square&color=a78bfa"/>
+### 📬 Let's Connect
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=120&section=footer"/>
+<a href="mailto:selvaganapathis.cse2024@citchennai.net"><img src="https://img.shields.io/badge/Say%20Hello-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/selvaganapathi-s-cse-dpt"><img src="https://img.shields.io/badge/Connect-FFA36B?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Selvam-1838&style=for-the-badge&color=FFD56B&label=PROFILE+VIEWS"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD56B,50:FFA36B,100:FF6B6B&height=150&section=footer"/>
 
 </div>
